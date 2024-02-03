@@ -1,0 +1,3 @@
+MultiTablaCancion [Album=prueba, FechaAlbum=29, Cancion=33, DuracionCancion=ee]
+MultiTablaCancion [Album=prueba, FechaAlbum=29, Cancion=ss, DuracionCancion=ss]
+MultiTablaCancion [Album=prueba, FechaAlbum=29, Cancion=j, DuracionCancion=j]

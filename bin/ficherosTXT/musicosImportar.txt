@@ -1,0 +1,7 @@
+1;Roberto;01/10/1985;Valencia;Española;Teclista;null
+2;Adam Gontier;25/05/1978;Ontario;Canadiense;Cantante;null
+4;Aratha Franklin;25/03/1941;EEUU;Americana;Cantante;null
+5;Bad Bunny;10/03/1994;Puerto Rico;Puertorriquenio;Cantante;null
+8;David Bisbal;05/06/1979;España;Español;Cantante;null
+9;Elvis Presley;08/01/1935;EEUU;Americano;Cantante;null
+15;Veronica;05/12/1991;Barcelona;Española;Cantante;null

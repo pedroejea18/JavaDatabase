@@ -1,0 +1,4 @@
+25;banda;nuevo;2;estudio;88;4
+26;musico;prueba;22;estudioso;33;3
+27;MUSICO;nuevo2;33;estudio;44:44;5
+28;banda;FINAL;22;estuDIO;3;3
